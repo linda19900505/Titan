@@ -1,0 +1,6 @@
+rpc/SearchItem.class
+entity/Item$ItemBuilder.class
+rpc/Recommendation.class
+rpc/RpcHelper.class
+entity/Item.class
+entity/Item$1.class
